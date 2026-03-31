@@ -1,1 +1,1 @@
-# CN-LAB-CL3001
+# Computer Networks Lab Spring'26
